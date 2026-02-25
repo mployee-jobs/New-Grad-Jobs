@@ -234,6 +234,9 @@ const main = async () => {
 			})
 		)).flat();
 
+		// Sort by time descending (newest first)
+		jobs.sort((a, b) => new Date(b.time) - new Date(a.time));
+
 		console.log("total jobs : ", jobs.length);
 		generateReadme(jobs);
 
