@@ -16,6 +16,7 @@ const TO_INCLUDE = {
 	postedDateTime: 1,
 	posted_date: 1,
 	_id: 1,
+	url: 1,
 	"Job ID (Numeric)": 1
 };
 
@@ -83,6 +84,8 @@ const generateReadme = (jobs) => {
 
 If you're graduating in 2025 or 2026, this repo is for you. You will find latest jobs from fortune 500 companies, startups, remote opportunities and on-site roles across major US cities. Major profiles like Software engineering, data, IT, and entry level tech roles updated every 24 hours.
 
+<br />
+
 ![Total Listings](https://img.shields.io/badge/Total_Listings-${totalJobs}-blue?style=for-the-badge&logo=database)
 ![Remote Jobs](https://img.shields.io/badge/Remote_Jobs-${remoteJobs}-green?style=for-the-badge&logo=home-assistant)
 ![Last Updated](https://img.shields.io/badge/Updated-${new Date().toLocaleDateString()}-orange?style=for-the-badge&logo=clock)
@@ -93,35 +96,36 @@ If you're graduating in 2025 or 2026, this repo is for you. You will find latest
 
 ## ⚡ Quick Actions
 
-- ⭐ Star this repository to stay updated
-- 👀 Edit resume before applying
-- 🔁 Updated every 24 hours
+- ⭐ **Star this repository** to stay updated
+- 👀 **Edit resume** before applying
+- 🔁 **Updated** every 24 hours
 
 ---
 
-## 📦 In the box
-
-🎓 **New Grad Tip**
-
-If you apply to 100 jobs, you should edit your resume 100 times.
-
-<br />
-
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Resume_Keywords_Finder-Click_Here-blue?style=for-the-badge&logo=readme" alt="Resume Keywords Finder" />
-</a>
-
-<br />
-<sub>(Always add keywords from JD before applying)</sub>
+<table>
+  <tr>
+    <td bgcolor="#f8f9fa">
+      <div align="center">
+        <h3>🎓 New Grad Tip</h3>
+        <p>If you apply to 100 jobs, you should edit your resume 100 times.</p>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Resume_Keywords_Finder-Click_Here-28a745?style=for-the-badge&logo=readme&logoColor=white" alt="Resume Keywords Finder" />
+        </a>
+        <br />
+        <sub><font size="1">(Always add keywords from JD before applying)</font></sub>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 💼 Job Roles Covered
 
-- Data scientist
-- Business Analyst
-- Product Manager
-- Full Stack Developer
+- 📊 Data scientist
+- 💼 Business Analyst
+- 🚀 Product Manager
+- 💻 Full Stack Developer
 
 ---
 
