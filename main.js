@@ -102,21 +102,32 @@ If you're graduating in 2025 or 2026, this repo is for you. You will find latest
 
 ---
 
-<table>
+<div align="center">
+<table width="100%">
   <tr>
-    <td bgcolor="#f8f9fa">
-      <div align="center">
-        <h3>🎓 New Grad Tip</h3>
-        <p>If you apply to 100 jobs, you should edit your resume 100 times.</p>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Resume_Keywords_Finder-Click_Here-28a745?style=for-the-badge&logo=readme&logoColor=white" alt="Resume Keywords Finder" />
-        </a>
+    <td bgcolor="#0d1117" align="center">
+      <br />
+      <p align="center">
+        <b>🎓 New Grad Tip</b>
+      </p>
+      <p align="center">
+        If you apply to 100 jobs, you should edit your resume 100 times.
+      </p>
+      <br />
+      <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/%20-Resume_Keywords_Finder-28a745?style=for-the-badge&logoColor=white" alt="Resume Keywords Finder" />
+      </a>
+      <br />
+      <br />
+      <p align="center">
+        <i><font size="2" color="#8b949e">Share any other cool projects you make using the repo, and we might give you a shoutout!</font></i>
         <br />
         <sub><font size="1">(Always add keywords from JD before applying)</font></sub>
-      </div>
+      </p>
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
