@@ -15,7 +15,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     env:
-      MONGO_URL: ${{ secrets.MONGO_URL }}
+      MONGODB_URI: ${{ secrets.MONGO_URL }}
       WEBSITE_URL: ${{ secrets.WEBSITE_URL }}
 
     steps:
