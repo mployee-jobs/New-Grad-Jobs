@@ -34,15 +34,11 @@ If you're graduating in 2025 or 2026, this repo is for you. You will find latest
       <p align="center">
         <font color="white" size="3">If you apply to 100 jobs, you should edit your resume 100 times.</font>
       </p>
-      <br />
+
       <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/%20-Resume_Keywords_Finder-28a745?style=for-the-badge&logoColor=white" alt="Resume Keywords Finder" />
       </a>
-      <br />
-      <br />
-      <p align="center">
-        <i><font size="2" color="#8b949e">Share any other cool projects you make using the repo, and we might give you a shoutout!</font></i>
-      </p>
+
       <p align="center">
         <sub><font size="1" color="#8b949e">(Always add keywords from JD before applying)</font></sub>
       </p>
@@ -687,4 +683,4 @@ If you're graduating in 2025 or 2026, this repo is for you. You will find latest
 
 ### 📅 Last Updated
 
-**Wednesday, February 25, 2026 at 03:43 PM GMT+5:30**
+**Wednesday, February 25, 2026 at 03:45 PM GMT+5:30**
