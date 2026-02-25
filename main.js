@@ -156,7 +156,7 @@ If you're graduating in 2025 or 2026, this repo is for you. You will find latest
 		} else {
 			jobs.forEach((job) => {
 				const company = job.company_url
-					? `<a href="${job.company_url}">${job.company || "-"}</a>`
+					? `<a target="_blank" rel="noopener noreferrer" href="${job.company_url}">${job.company || "-"}</a>`
 					: job.company || "-";
 
 				const role = job.title || "-";
@@ -164,7 +164,7 @@ If you're graduating in 2025 or 2026, this repo is for you. You will find latest
 				const posted = getTimeAgo(job.posted_date || job.postedDateTime);
 
 				// Generate dynamic URL for your website (no profile sections now)
-				const jobUrl = `${baseUrl}/us${job?.url}`
+				const jobUrl = `${baseUrl}/us${job?.url}?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt`
 				const apply = `<a target="_blank" rel="noopener noreferrer" href="${jobUrl}"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a>`;
 
 				content += `<tr>
