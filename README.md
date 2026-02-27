@@ -1,4 +1,5 @@
-# 2026 New Grad Jobs | Daily Job Updates
+
+<h1>2026 New Grad Jobs | Daily Job Updates</h1>
 
 ![Updated Daily](https://img.shields.io/badge/Updated_Daily-green?style=for-the-badge&logo=clock)
 ![Location: USA](https://img.shields.io/badge/Location:_USA-blue?style=for-the-badge&logo=googlemaps)
@@ -22,19 +23,9 @@ All roles are refreshed every **24 hours**.
 
 ---
 
-### <h2>🎓 Who This Repository Is For </h2>
+### <h2>🎓 Who is this repository for ? </h2>
 
 College seniors • Recent graduates • Campus hiring roles • Class of 2025 & 2026
-
----
-
-### <h2>♻️ How Daily Updates Work</h2>
-
-- Jobs refreshed every 24 hours
-- Expired listings removed
-- Only active US-based graduate roles
-
----
 
 ### <h2>🎓 New Grad Tip</h2>
 
@@ -460,4 +451,4 @@ If these were not the jobs you were looking for, try searching based on the prof
 
 ### 📅 Last Updated
 
-**Friday, February 27, 2026 at 06:01 PM GMT+5:30**
+**Friday, February 27, 2026 at 06:07 PM GMT+5:30**
