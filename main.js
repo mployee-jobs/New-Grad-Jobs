@@ -108,13 +108,13 @@ All roles are refreshed every **24 hours**.
 
 ---
 
-### 📍 Who This Repository Is For
+### <h2>🎓 Who This Repository Is For </h2>
 
 College seniors • Recent graduates • Campus hiring roles • Class of 2025 & 2026
 
 ---
 
-### ♻️ How Daily Updates Work
+### <h2>♻️ How Daily Updates Work</h2>
 
 - Jobs refreshed every 24 hours
 - Expired listings removed
@@ -124,31 +124,36 @@ College seniors • Recent graduates • Campus hiring roles • Class of 2025 &
 
 ### <h2>🎓 New Grad Tip</h2>
 
-<div align="center" style="color : white">
-<table width="100%">
-<tr>
-<td bgcolor="#0d1117" align="center" style="border: 1px solid #30363d; border-radius: 6px;">
-<br />
-<p align="center">
-<font size="4"><b>Always apply with a resume whose ATS score is above 80%.</b></font>
+<div align="center">
+<div style="
+background-color:#0d1117;
+border:1px solid #30363d;
+border-radius:12px;
+padding:20px;
+width:100%;
+max-width:800px;
+color : white;
+">
+
+<p>
+	<b>Always apply with a resume whose ATS score is above 80%.</b>
 </p>
-<hr style="height:1px;border:none;background-color:#30363d;width:100%;">
-<p align="center">
-<i>More than 75% of resumes are filtered out before a human sees them. Make sure yours isn't one of them.</i>
+
+<hr style="height:1px;border:none;background-color:#30363d;">
+
+<p>
+	<i>More than 75% of resumes are filtered out before a human sees them. Make sure yours isn't one of them.</i>
 </p>
-<br />
+
 <a href="https://www.mployee.me/resumescan?utm_source=new_grad_jobs&utm_medium=github&utm_campaign=seo_mkt" target="_blank">
-<img 
-src="https://img.shields.io/badge/-🚀%20Score%20My%20Resume-243c7c?style=for-the-badge" 
-alt="Score My Resume"
-width="300"
-/>
+	<img 
+	src="https://img.shields.io/badge/-🚀%20Score%20My%20Resume-243c7c?style=for-the-badge" 
+	alt="Score My Resume"
+	width="300"
+	/>
 </a>
-<br />
-<br />
-</td>
-</tr>
-</table>
+
+</div>
 </div>
 
 ---
@@ -158,16 +163,16 @@ width="300"
 <div align="center" style="color : white">
 <table width="100%">
   <tr>
-    <td width="50%" style="vertical-align: top;">
+    <td width="50%" style="vertical-align: top; padding-right: 20px;">
       <ul>
         <li>Jobs are refreshed every 24 hours</li>
         <li>Expired listings are removed</li>
         <li>Only active US-based graduate roles are included</li>
       </ul>
     </td>
-    <td width="50%" style="vertical-align: top;">
+    <td width="50%" style="vertical-align: top; padding-left: 20px;">
       <ul>
-        <li>Direct application links provided</b></li>
+        <li>Direct application links provided</li>
         <li>Focus strictly on 2025 & 2026 graduates</li>
         <li>Provides jobs from various industries</li>
       </ul>
