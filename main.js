@@ -86,7 +86,7 @@ const generateReadme = (jobs) => {
 		// README Header - Premium Style
 		let content = `# 2026 New Grad Jobs | Daily Job Updates
 
-![Updated Daily](https://img.shields.io/badge/Updated_Daily-blue?style=for-the-badge&logo=clock)
+![Updated Daily](https://img.shields.io/badge/Updated_Daily-green?style=for-the-badge&logo=clock)
 ![Location: USA](https://img.shields.io/badge/Location:_USA-blue?style=for-the-badge&logo=googlemaps)
 ![Level: New Graduate](https://img.shields.io/badge/Level:_New_Graduate-orange?style=for-the-badge&logo=education)
 
