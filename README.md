@@ -91,9 +91,7 @@ width="300"
 </div>
 
 <div align="center">
-  <a>
-    <img src="https://img.shields.io/badge/🔥_Start_Applying_to_Latest_New_Grad_Roles_Below_↓-0d1117?style=for-the-badge&logoColor=white&labelColor=161b22" alt="Start Applying" />
-  </a>
+<p>🔥 Start Applying to Latest New Grad Roles Below ↓</p>
 </div>
 
 ---
@@ -457,4 +455,4 @@ If these were not the jobs you were looking for, try searching based on the prof
 
 ### 📅 Last Updated
 
-**Friday, February 27, 2026 at 05:38 PM GMT+5:30**
+**Friday, February 27, 2026 at 05:40 PM GMT+5:30**

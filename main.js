@@ -177,9 +177,7 @@ width="300"
 </div>
 
 <div align="center">
-  <a>
-    <img src="https://img.shields.io/badge/🔥_Start_Applying_to_Latest_New_Grad_Roles_Below_↓-0d1117?style=for-the-badge&logoColor=white&labelColor=161b22" alt="Start Applying" />
-  </a>
+<p>🔥 Start Applying to Latest New Grad Roles Below ↓</p>
 </div>
 
 ---
