@@ -137,9 +137,11 @@ College seniors • Recent graduates • Campus hiring roles • Class of 2025 &
         <i>More than 75% of resumes are filtered out before a human sees them. Make sure yours isn't one of them.</i>
       </p>
       <br />
-      <a href="https://www.mployee.me/resumescan?utm_source=new_grad_jobs&utm_medium=github&utm_campaign=seo_mkt" target="_blank">
-        <img src="https://img.shields.io/badge/%20-🚀%20Score_My_Resume-243c7c?style=for-the-badge&logoColor=white" alt="Score My Resume" />
+
+	  <a href="https://www.mployee.me/resumescan?utm_source=new_grad_jobs&utm_medium=github&utm_campaign=seo_mkt" target="_blank">
+        <img src="https://img.shields.io/badge/%20-🚀%20Score_My_Resume-243c7c?style=for-the-badge&logoColor=white" alt="Score My Resume" height="50" />
       </a>
+      
       <br />
       <br />
     </td>
@@ -187,7 +189,7 @@ College seniors • Recent graduates • Campus hiring roles • Class of 2025 &
 
 > 💼 **${totalJobs}** positions available
 
-<table>
+<table width="100%">
 <thead>
 <tr>
 <th width="20%">🏢 Company</th>
