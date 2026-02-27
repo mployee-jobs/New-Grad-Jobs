@@ -40,26 +40,28 @@ College seniors • Recent graduates • Campus hiring roles • Class of 2025 &
 
 <div align="center" style="color : white">
 <table width="100%">
-  <tr>
-    <td bgcolor="#0d1117" align="center" style="border: 1px solid #30363d; border-radius: 6px;">
-      <br />
-      <p align="center">
-        <font size="4"><b>Always apply with a resume whose ATS score is above 80%.</b></font>
-      </p>
-	  <hr style="height:1px;border:none;background-color:#30363d;width:100%;">
-      <p align="center">
-        <i>More than 75% of resumes are filtered out before a human sees them. Make sure yours isn't one of them.</i>
-      </p>
-      <br />
-
-	  <a href="https://www.mployee.me/resumescan?utm_source=new_grad_jobs&utm_medium=github&utm_campaign=seo_mkt" target="_blank">
-        <img src="https://img.shields.io/badge/%20-🚀%20Score_My_Resume-243c7c?style=for-the-badge&logoColor=white" alt="Score My Resume" height="50" />
-      </a>
-      
-      <br />
-      <br />
-    </td>
-  </tr>
+<tr>
+<td bgcolor="#0d1117" align="center" style="border: 1px solid #30363d; border-radius: 6px;">
+<br />
+<p align="center">
+<font size="4"><b>Always apply with a resume whose ATS score is above 80%.</b></font>
+</p>
+<hr style="height:1px;border:none;background-color:#30363d;width:100%;">
+<p align="center">
+<i>More than 75% of resumes are filtered out before a human sees them. Make sure yours isn't one of them.</i>
+</p>
+<br />
+<a href="https://www.mployee.me/resumescan?utm_source=new_grad_jobs&utm_medium=github&utm_campaign=seo_mkt" target="_blank">
+<img 
+src="https://img.shields.io/badge/-🚀%20Score%20My%20Resume-243c7c?style=for-the-badge" 
+alt="Score My Resume"
+width="300"
+/>
+</a>
+<br />
+<br />
+</td>
+</tr>
 </table>
 </div>
 
@@ -458,4 +460,4 @@ If these were not the jobs you were looking for, try searching based on the prof
 
 ### 📅 Last Updated
 
-**Friday, February 27, 2026 at 05:04 PM GMT+5:30**
+**Friday, February 27, 2026 at 05:14 PM GMT+5:30**
