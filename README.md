@@ -382,7 +382,11 @@ College seniors • Recent graduates • Campus hiring roles • Class of 2025 &
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/mainehealth">MaineHealth</a></td>
 <td>Clinical Nurse (RN) - Medical Surgical Telemetry/IMC (R9) New Graduates Welcome</td>
 <td>📍 Portland, OR</td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/mainehealth">MaineHealth</a></td>
+<td>Clinical Nurse (RN) - Medical Surgical Telemetry/IMC (R9) New Graduates Welcome</td>
+<td>📍 Portland, OR</td>
 <td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/clinical-nurse-rn-medical-surgical-telemetryimc-r9-new-graduates-welcome-in-portland-or-at-mainehealth-4376464323/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/clinical-nurse-rn-medical-surgical-telemetryimc-r9-new-graduates-welcome-in-portland-or-at-mainehealth-4376464323/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
