@@ -91,7 +91,18 @@ const generateReadme = (jobs) => {
 ![Location: USA](https://img.shields.io/badge/Location:_USA-blue?style=for-the-badge&logo=googlemaps)
 ![Level: New Graduate](https://img.shields.io/badge/Level:_New_Graduate-orange?style=for-the-badge&logo=education)
 
-Last Updated: ${getMonthYear()}
+### 📅 Last Updated
+**${new Date().toLocaleString("en-US", {
+			timeZone: "America/New_York",
+			weekday: "long",
+			year: "numeric",
+			month: "long",
+			day: "numeric",
+			hour: "2-digit",
+			minute: "2-digit",
+			hour12: true,
+			timeZoneName: "short",
+		})}**
 
 If you're graduating in 2025 or 2026, this repository is built for you.
 
@@ -262,17 +273,7 @@ If these were not the jobs you were looking for, try searching based on the prof
 
 ---
 
-### 📅 Last Updated
 
-**${new Date().toLocaleString("en-US", {
-			weekday: "long",
-			year: "numeric",
-			month: "long",
-			day: "numeric",
-			hour: "2-digit",
-			minute: "2-digit",
-			timeZoneName: "short",
-		})}**
 `;
 
 		// Write to file
