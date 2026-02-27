@@ -65,6 +65,13 @@ const getProfileEmoji = (profile) => {
 	return emojiMap[profile] || "📋";
 };
 
+function getMonthYear(date = new Date()) {
+	return date.toLocaleString("en-US", {
+		month: "long",
+		year: "numeric",
+	});
+}
+
 const generateReadme = (jobs) => {
 	try {
 		console.log("🔄 Generating README.md...");
@@ -76,48 +83,65 @@ const generateReadme = (jobs) => {
 				: count;
 		}, 0);
 
-		// README Header - New Style
-		let content = `
-<div align="center">
+		// README Header - Premium Style
+		let content = `# 2026 New Grad Jobs | Daily Job Updates
 
-<h1>New Grad Jobs USA 2026 🇺🇸 | Tech, IT & Entry Level Roles</h1>
+![Updated Daily](https://img.shields.io/badge/Updated_Daily-green?style=for-the-badge&logo=clock)
+![Location: USA](https://img.shields.io/badge/Location-USA-blue?style=for-the-badge&logo=googlemaps)
+![Level: New Graduate](https://img.shields.io/badge/Level-New_Graduate-orange?style=for-the-badge&logo=education)
 
-If you're graduating in 2025 or 2026, this repo is for you. You will find latest jobs from fortune 500 companies, startups, remote opportunities and on-site roles across major US cities. Major profiles like Software engineering, data, IT, and entry level tech roles updated every 24 hours.
+Last Updated: ${getMonthYear()}
 
-<br />
+If you're graduating in 2025 or 2026, this repository is built for you.
 
-![Total Listings](https://img.shields.io/badge/Total_Listings-${totalJobs}-blue?style=for-the-badge&logo=database)
-![Remote Jobs](https://img.shields.io/badge/Remote_Jobs-${remoteJobs}-green?style=for-the-badge&logo=home-assistant)
-![Last Updated](https://img.shields.io/badge/Updated-${new Date().toLocaleDateString()}-orange?style=for-the-badge&logo=clock)
+You will find the latest new grad jobs across:
+- Fortune 500 companies
+- High-growth startups
+- Remote opportunities
+- On-site roles across major US cities
 
-</div>
+Major profiles include:
+
+\`Data Engineer\` • \`Project Engineer\` • \`Software Engineer\` • \`Clinical Nurse\` • \`Product Manager\` • \`Full Stack Developer\` • \`Business Analyst\` • \`Finance\` • \`Marketing\`
+
+All roles are refreshed every **24 hours**.
 
 ---
 
-## ⚡ Quick Actions
+### 📍 Who This Repository Is For
 
-- ⭐ **Star this repository** to stay updated
-- 👀 **Edit resume** before applying
-- 🔁 **Updated** every 24 hours
+College seniors • Recent graduates • Campus hiring roles • Class of 2025 & 2026
 
 ---
 
-<div align="center">
+### ♻️ How Daily Updates Work
+
+- Jobs refreshed every 24 hours
+- Expired listings removed
+- Only active US-based graduate roles
+
+---
+
+### <h2>🎓 New Grad Tip</h2>
+
+<div align="center" style="color : white">
 <table width="100%">
   <tr>
-    <td bgcolor="#0d1117" align="center">
+    <td bgcolor="#0d1117" align="center" style="border: 1px solid #30363d; border-radius: 6px;">
+      <br />
       <p align="center">
-        <font color="white" size="4"><b>🎓 ⮕ New Grad Tip</b></font>
+        <font size="4"><b>Always apply with a resume whose ATS score is above 80%.</b></font>
       </p>
+	  <hr style="height:1px;border:none;background-color:#30363d;width:100%;">
       <p align="center">
-        <font color="white" size="3">Always apply with a resume whose ATS score is more than 80%</font>
+        <i>More than 75% of resumes are filtered out before a human sees them. Make sure yours isn't one of them.</i>
       </p>
-      <a href="https://www.mployee.me/resume-scan-dashboard" target="_blank">
-        <img src="https://img.shields.io/badge/%20-Resume_Keywords_Finder-28a745?style=for-the-badge&logoColor=white" alt="Score My Resume" />
+      <br />
+      <a href="https://www.mployee.me/resumescan?utm_source=new_grad_jobs&utm_medium=github&utm_campaign=seo_mkt" target="_blank">
+        <img src="https://img.shields.io/badge/%20-🚀%20Score_My_Resume-243c7c?style=for-the-badge&logoColor=white" alt="Score My Resume" />
       </a>
-      <p align="center">
-        <sub><font size="1" color="#8b949e"> (More than 75% of resumes are filtered out by ATS. Make sure yours isn't one of them.)  </font></sub>
-      </p>
+      <br />
+      <br />
     </td>
   </tr>
 </table>
@@ -125,14 +149,39 @@ If you're graduating in 2025 or 2026, this repo is for you. You will find latest
 
 ---
 
-## 💼 Job Roles Covered
+### <h2><img src="https://img.icons8.com/clouds/100/000000/resume.png" width="30" height="30" align="center"> <font color="#58a6ff">What Makes</font> This New Grad Job List Different?</h2>
 
+<table width="100%">
+  <tr>
+    <td width="50%" style="vertical-align: top;">
+      <ul>
+        <li>Tracks only active job postings</li>
+        <li>Removes expired listings daily</li>
+        <li>Focuses strictly on Jobs match</li>
+      </ul>
+    </td>
+    <td width="50%" style="vertical-align: top;">
+      <ul>
+        <li>Focuses strictly on <b>2025 & 2026 graduates</b></li>
+        <li>Avoids senior-level or misleading "entry-level" roles ↓</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://www.mployee.me/resumescan?utm_source=new_grad_jobs&utm_medium=github&utm_campaign=seo_mkt" target="_blank">
+    <img src="https://img.shields.io/badge/🔥_Start_Applying_to_Latest_New_Grad_Roles_Below_↓-0d1117?style=for-the-badge&logoColor=white&labelColor=161b22" alt="Start Applying" />
+  </a>
+</div>
+
+---
+
+## 📊 Job Categories
 - 📊 Data scientist
 - 💼 Business Analyst
 - 🚀 Product Manager
 - 💻 Full Stack Developer
-
----
 
 ## 🎓 New Grad Jobs (All Roles)
 
@@ -179,6 +228,42 @@ If you're graduating in 2025 or 2026, this repo is for you. You will find latest
 
 		content += `</tbody>
 </table>
+
+---
+
+### <h2>🇺🇸 <font color="#58a6ff">Where Are These New Grad Jobs</font> Located?</h2>
+
+<p align="center">
+<a href="https://www.mployee.me/us/jobs/software-developer-jobs/atlanta_ga"><img src="https://img.shields.io/badge/Atlanta-1f425f?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/software-developer-jobs/san-francisco_ca"><img src="https://img.shields.io/badge/San_Francisco-008080?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/software-developer-jobs/austin_tx"><img src="https://img.shields.io/badge/Austin-4b0082?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/software-developer-jobs/boston_ma"><img src="https://img.shields.io/badge/Boston-8b4513?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/software-developer-jobs/chicago_il"><img src="https://img.shields.io/badge/Chicago-000080?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/software-developer-jobs/washington_dc"><img src="https://img.shields.io/badge/Washington_DC-778899?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/software-developer-jobs/phoenix_az"><img src="https://img.shields.io/badge/Phoenix-2f4f4f?style=for-the-badge&logoColor=white" /></a>
+</p>
+
+<p>This repository includes new grad jobs in software engineering, data engineering, finance, healthcare, and operations across top hiring cities in the United States.</p>
+
+---
+
+### <h2>🔍 <font color="#58a6ff">Find Your Right Fit By Profile</font></h2>
+
+<p align="center">
+If these were not the jobs you were looking for, try searching based on the profile:
+</p>
+
+<p align="center">
+<a href="https://www.mployee.me/us/jobs/software-developer-jobs"><img src="https://img.shields.io/badge/Software_Developer-0078D4?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/data-engineer-jobs"><img src="https://img.shields.io/badge/Data_Engineer-28A745?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/business-analyst-jobs"><img src="https://img.shields.io/badge/Business_Analyst-FFC107?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/data-scientist-jobs"><img src="https://img.shields.io/badge/Data_Scientist-6F42C1?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/python-developer-jobs"><img src="https://img.shields.io/badge/Python_Developer-3776AB?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/ai-solution-specialist-jobs"><img src="https://img.shields.io/badge/AI--Solution_Specialist-00A4EF?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/accountant-jobs"><img src="https://img.shields.io/badge/Accountant-D22128?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/sales-manager-jobs"><img src="https://img.shields.io/badge/Sales-00A3A0?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.mployee.me/us/jobs/finance-executive-jobs"><img src="https://img.shields.io/badge/Finance_Executive-E91E63?style=for-the-badge&logoColor=white" /></a>
+</p>
 
 ---
 
