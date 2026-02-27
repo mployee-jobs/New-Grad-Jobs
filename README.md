@@ -1,8 +1,8 @@
 # 2026 New Grad Jobs | Daily Job Updates
 
-![Updated Daily](https://img.shields.io/badge/Updated_Daily-green?style=for-the-badge&logo=clock)
-![Location: USA](https://img.shields.io/badge/Location-USA-blue?style=for-the-badge&logo=googlemaps)
-![Level: New Graduate](https://img.shields.io/badge/Level-New_Graduate-orange?style=for-the-badge&logo=education)
+![Updated Daily](https://img.shields.io/badge/Updated_Daily-orange?style=for-the-badge&logo=clock)
+![Location: USA](https://img.shields.io/badge/Location:_USA-blue?style=for-the-badge&logo=googlemaps)
+![Level: New Graduate](https://img.shields.io/badge/Level:_New_Graduate-orange?style=for-the-badge&logo=education)
 
 Last Updated: February 2026
 
@@ -69,23 +69,26 @@ width="300"
 
 ### <h2><img src="https://img.icons8.com/clouds/100/000000/resume.png" width="30" height="30" align="center"> <font color="#58a6ff">What Makes</font> This New Grad Job List Different?</h2>
 
+<div align="center" style="color : white">
 <table width="100%">
   <tr>
     <td width="50%" style="vertical-align: top;">
       <ul>
-        <li>Tracks only active job postings</li>
-        <li>Removes expired listings daily</li>
-        <li>Focuses strictly on Jobs match</li>
+        <li>Jobs are refreshed every 24 hours</li>
+        <li>Expired listings are removed</li>
+        <li>Only active US-based graduate roles are included</li>
       </ul>
     </td>
     <td width="50%" style="vertical-align: top;">
       <ul>
-        <li>Focuses strictly on <b>2025 & 2026 graduates</b></li>
-        <li>Avoids senior-level or misleading "entry-level" roles ↓</li>
+        <li>Direct application links provided</b></li>
+        <li>Focus strictly on 2025 & 2026 graduates</li>
+        <li>Provides jobs from various industries</li>
       </ul>
     </td>
   </tr>
 </table>
+</div>
 
 <div align="center">
   <a href="https://www.mployee.me/resumescan?utm_source=new_grad_jobs&utm_medium=github&utm_campaign=seo_mkt" target="_blank">
@@ -94,12 +97,6 @@ width="300"
 </div>
 
 ---
-
-## 📊 Job Categories
-- 📊 Data scientist
-- 💼 Business Analyst
-- 🚀 Product Manager
-- 💻 Full Stack Developer
 
 ## 🎓 New Grad Jobs (All Roles)
 
@@ -460,4 +457,4 @@ If these were not the jobs you were looking for, try searching based on the prof
 
 ### 📅 Last Updated
 
-**Friday, February 27, 2026 at 05:14 PM GMT+5:30**
+**Friday, February 27, 2026 at 05:33 PM GMT+5:30**
