@@ -72,7 +72,7 @@ color : white;
       <ul>
         <li>Jobs are refreshed every 24 hours</li>
         <li>Expired listings are removed</li>
-        <li>Only active US-based graduate roles are included</li>
+        <li>Active US-based graduate roles</li>
       </ul>
     </td>
     <td width="50%" style="vertical-align: top; padding-left: 20px;">
@@ -451,4 +451,4 @@ If these were not the jobs you were looking for, try searching based on the prof
 
 ### 📅 Last Updated
 
-**Friday, February 27, 2026 at 06:07 PM GMT+5:30**
+**Friday, February 27, 2026 at 06:10 PM GMT+5:30**

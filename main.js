@@ -158,7 +158,7 @@ color : white;
       <ul>
         <li>Jobs are refreshed every 24 hours</li>
         <li>Expired listings are removed</li>
-        <li>Only active US-based graduate roles are included</li>
+        <li>Active US-based graduate roles</li>
       </ul>
     </td>
     <td width="50%" style="vertical-align: top; padding-left: 20px;">
