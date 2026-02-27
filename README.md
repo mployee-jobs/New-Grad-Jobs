@@ -1,6 +1,6 @@
 # 2026 New Grad Jobs | Daily Job Updates
 
-![Updated Daily](https://img.shields.io/badge/Updated_Daily-orange?style=for-the-badge&logo=clock)
+![Updated Daily](https://img.shields.io/badge/Updated_Daily-blue?style=for-the-badge&logo=clock)
 ![Location: USA](https://img.shields.io/badge/Location:_USA-blue?style=for-the-badge&logo=googlemaps)
 ![Level: New Graduate](https://img.shields.io/badge/Level:_New_Graduate-orange?style=for-the-badge&logo=education)
 
@@ -91,7 +91,7 @@ width="300"
 </div>
 
 <div align="center">
-  <a href="https://www.mployee.me/resumescan?utm_source=new_grad_jobs&utm_medium=github&utm_campaign=seo_mkt" target="_blank">
+  <a>
     <img src="https://img.shields.io/badge/🔥_Start_Applying_to_Latest_New_Grad_Roles_Below_↓-0d1117?style=for-the-badge&logoColor=white&labelColor=161b22" alt="Start Applying" />
   </a>
 </div>
@@ -457,4 +457,4 @@ If these were not the jobs you were looking for, try searching based on the prof
 
 ### 📅 Last Updated
 
-**Friday, February 27, 2026 at 05:33 PM GMT+5:30**
+**Friday, February 27, 2026 at 05:36 PM GMT+5:30**
