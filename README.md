@@ -6,7 +6,7 @@
 ![Level: New Graduate](https://img.shields.io/badge/Level:_New_Graduate-orange?style=for-the-badge&logo=education)
 
 ### 📅 Last Updated
-**Monday, May 25, 2026 at 08:47 AM EDT**
+**Wednesday, May 27, 2026 at 08:39 AM EDT**
 
 If you're graduating in 2025 or 2026, this repository is built for you.
 
@@ -95,7 +95,7 @@ color : white;
 
 ## 🎓 New Grad Jobs (All Roles)
 
-> 💼 **13** positions available
+> 💼 **6** positions available
 
 <table width="100%">
 <thead>
@@ -109,81 +109,32 @@ color : white;
 </thead>
 <tbody>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/bgeinc">BGE, Inc.</a></td>
-<td>HOUSTON - Site Development, New Grad</td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/aegon-consulting-group">Aegon Consulting Group</a></td>
+<td>Entry-Level Direct Marketing Associate (New Graduates Welcome)</td>
 <td>📍 Houston, TX</td>
 <td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/houston-site-development-new-grad-in-houston-tx-at-bge-inc-4362365000/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/entry-level-direct-marketing-associate-new-graduates-welcome-in-houston-tx-at-aegon-consulting-group-4419161486/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/bgeinc">BGE, Inc.</a></td>
-<td>HOUSTON - Site Development, New Grad</td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/aegon-consulting-group">Aegon Consulting Group</a></td>
+<td>Entry-Level Direct Marketing Associate (New Graduates Welcome)</td>
 <td>📍 Houston, TX</td>
 <td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/houston-site-development-new-grad-in-houston-tx-at-bge-inc-4362365000/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/entry-level-direct-marketing-associate-new-graduates-welcome-in-houston-tx-at-aegon-consulting-group-4419161486/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/bgeinc">BGE, Inc.</a></td>
-<td>HOUSTON - Site Development, New Grad</td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/aegon-consulting-group">Aegon Consulting Group</a></td>
+<td>Entry-Level Direct Marketing Associate (New Graduates Welcome)</td>
 <td>📍 Houston, TX</td>
 <td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/houston-site-development-new-grad-in-houston-tx-at-bge-inc-4362365000/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/entry-level-direct-marketing-associate-new-graduates-welcome-in-houston-tx-at-aegon-consulting-group-4419161486/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/gocaribou">Caribou Financial, Inc.</a></td>
-<td>Associate Loan Advisor – New Grad / Early Career (Paid Training)</td>
-<td>📍 Phoenix, AZ</td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/fox-rehabilitation">FOX Rehabilitation</a></td>
+<td>Physical Therapist (New Grad Mentor Program) - Greater Kennesaw, GA</td>
+<td>📍 US</td>
 <td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/associate-loan-advisor-new-grad-early-career-paid-training-in-phoenix-az-at-caribou-financial-inc-4407220175/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/gocaribou">Caribou Financial, Inc.</a></td>
-<td>Associate Loan Advisor – New Grad / Early Career (Paid Training)</td>
-<td>📍 Phoenix, AZ</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/associate-loan-advisor-new-grad-early-career-paid-training-in-phoenix-az-at-caribou-financial-inc-4407220175/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/gocaribou">Caribou Financial, Inc.</a></td>
-<td>Associate Loan Advisor – New Grad / Early Career (Paid Training)</td>
-<td>📍 Phoenix, AZ</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/associate-loan-advisor-new-grad-early-career-paid-training-in-phoenix-az-at-caribou-financial-inc-4407220175/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/crbgrp">CRB</a></td>
-<td>New Grad Project Engineer I - Food & Beverage Group</td>
-<td>📍 Kansas City, MO</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-project-engineer-i-food-beverage-group-in-kansas-city-mo-at-crb-4378652926/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/crbgrp">CRB</a></td>
-<td>New Grad Project Engineer I - Food & Beverage Group</td>
-<td>📍 Kansas City, MO</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-project-engineer-i-food-beverage-group-in-kansas-city-mo-at-crb-4378652926/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/crbgrp">CRB</a></td>
-<td>New Grad Project Engineer I - Food & Beverage Group</td>
-<td>📍 Kansas City, MO</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-project-engineer-i-food-beverage-group-in-kansas-city-mo-at-crb-4378652926/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/bgeinc">BGE, Inc.</a></td>
-<td>HOUSTON - Site Development, New Grad</td>
-<td>📍 Houston, TX</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/houston-site-development-new-grad-in-houston-tx-at-bge-inc-4362325602/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/bgeinc">BGE, Inc.</a></td>
-<td>HOUSTON - Site Development, New Grad</td>
-<td>📍 Houston, TX</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/houston-site-development-new-grad-in-houston-tx-at-bge-inc-4362325602/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/physical-therapist-new-grad-mentor-program-greater-kennesaw-ga-in-us-at-fox-rehabilitation-4332791694/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/bgeinc">BGE, Inc.</a></td>
