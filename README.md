@@ -6,7 +6,7 @@
 ![Level: New Graduate](https://img.shields.io/badge/Level:_New_Graduate-orange?style=for-the-badge&logo=education)
 
 ### 📅 Last Updated
-**Monday, June 8, 2026 at 09:49 AM EDT**
+**Tuesday, June 9, 2026 at 08:20 AM EDT**
 
 If you're graduating in 2025 or 2026, this repository is built for you.
 
@@ -95,7 +95,7 @@ color : white;
 
 ## 🎓 New Grad Jobs (All Roles)
 
-> 💼 **5** positions available
+> 💼 **4** positions available
 
 <table width="100%">
 <thead>
@@ -108,13 +108,6 @@ color : white;
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/dbtalentconsulting">DB Talent Consulting</a></td>
-<td>Pain Medicine Physician - NEW GRAD/ FELLOW</td>
-<td>📍 Gresham, OR</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/pain-medicine-physician-new-grad-fellow-in-gresham-or-at-db-talent-consulting-4424690211/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/morgan-&-morgan-llc">Morgan & Morgan, P.A.</a></td>
 <td>Seeking Paralegal New Grads!</td>
