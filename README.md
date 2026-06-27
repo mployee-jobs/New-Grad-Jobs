@@ -6,7 +6,7 @@
 ![Level: New Graduate](https://img.shields.io/badge/Level:_New_Graduate-orange?style=for-the-badge&logo=education)
 
 ### 📅 Last Updated
-**Friday, June 26, 2026 at 07:57 AM EDT**
+**Saturday, June 27, 2026 at 07:09 AM EDT**
 
 If you're graduating in 2025 or 2026, this repository is built for you.
 
@@ -112,77 +112,77 @@ color : white;
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/pls-logistics-services">PLS Logistics Services</a></td>
 <td>New Grad Account Executive | Entry-Level Sales & Logistics | $52K Base + Commission |</td>
 <td>📍 Nashville, TN</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-account-executive-entry-level-sales-logistics-52k-base-commission--in-nashville-tn-at-pls-logistics-services-4395066190/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/pls-logistics-services">PLS Logistics Services</a></td>
 <td>New Grad Account Executive | Entry-Level Sales & Logistics | $52K Base + Commission |</td>
 <td>📍 Nashville, TN</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-account-executive-entry-level-sales-logistics-52k-base-commission--in-nashville-tn-at-pls-logistics-services-4395066190/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/gocaribou">Caribou Financial, Inc.</a></td>
 <td>Associate Loan Advisor – New Grad / Early Career (Paid Training)</td>
 <td>📍 Chandler, AZ</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/associate-loan-advisor-new-grad-early-career-paid-training-in-chandler-az-at-caribou-financial-inc-4407222178/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/gocaribou">Caribou Financial, Inc.</a></td>
 <td>Associate Loan Advisor – New Grad / Early Career (Paid Training)</td>
 <td>📍 Chandler, AZ</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/associate-loan-advisor-new-grad-early-career-paid-training-in-chandler-az-at-caribou-financial-inc-4407222178/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/aegon-consulting-group">Aegon Consulting Group | Houston, TX</a></td>
 <td>Entry-Level Marketing Associate (New Graduates Welcome)</td>
 <td>📍 Houston, TX</td>
-<td>3d ago</td>
+<td>4d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/entry-level-marketing-associate-new-graduates-welcome-in-houston-tx-at-aegon-consulting-group-houston-tx-4421266238/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/aegon-consulting-group">Aegon Consulting Group | Houston, TX</a></td>
 <td>Entry-Level Marketing Associate (New Graduates Welcome)</td>
 <td>📍 Houston, TX</td>
-<td>3d ago</td>
+<td>4d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/entry-level-marketing-associate-new-graduates-welcome-in-houston-tx-at-aegon-consulting-group-houston-tx-4421266238/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/aegon-consulting-group">Aegon Consulting Group | Houston, TX</a></td>
 <td>Entry-Level Marketing Associate (New Graduates Welcome)</td>
 <td>📍 Houston, TX</td>
-<td>3d ago</td>
+<td>4d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/entry-level-marketing-associate-new-graduates-welcome-in-houston-tx-at-aegon-consulting-group-houston-tx-4421266238/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/crbgrp">CRB</a></td>
 <td>New Grad Architectural Designer I (Boston)</td>
 <td>📍 Medford, OK</td>
-<td>5d ago</td>
+<td>6d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-architectural-designer-i-boston-in-medford-ok-at-crb-4364941164/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/crbgrp">CRB</a></td>
 <td>New Grad Architectural Designer I (Boston)</td>
 <td>📍 Medford, OK</td>
-<td>5d ago</td>
+<td>6d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-architectural-designer-i-boston-in-medford-ok-at-crb-4364941164/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/morgan-&-morgan-llc">Morgan & Morgan, P.A.</a></td>
 <td>Seeking Paralegal New Grads!</td>
 <td>📍 Miami, FL</td>
-<td>6d ago</td>
+<td>1w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/seeking-paralegal-new-grads-in-miami-fl-at-morgan-morgan-pa-4391074512/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/morgan-&-morgan-llc">Morgan & Morgan, P.A.</a></td>
 <td>Seeking Paralegal New Grads!</td>
 <td>📍 Miami, FL</td>
-<td>6d ago</td>
+<td>1w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/seeking-paralegal-new-grads-in-miami-fl-at-morgan-morgan-pa-4391074512/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
@@ -217,7 +217,7 @@ color : white;
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/j-s-held">J.S. Held LLC</a></td>
 <td>Consultant - Construction Advisory (Open to New Grads)</td>
 <td>📍 Miami, FL</td>
-<td>4w ago</td>
+<td>1mo ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/consultant-construction-advisory-open-to-new-grads-in-miami-fl-at-js-held-llc-4411266610/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
