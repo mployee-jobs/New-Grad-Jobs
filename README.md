@@ -6,7 +6,7 @@
 ![Level: New Graduate](https://img.shields.io/badge/Level:_New_Graduate-orange?style=for-the-badge&logo=education)
 
 ### 📅 Last Updated
-**Wednesday, July 22, 2026 at 07:24 AM EDT**
+**Thursday, July 23, 2026 at 07:22 AM EDT**
 
 If you're graduating in 2025 or 2026, this repository is built for you.
 
@@ -95,7 +95,7 @@ color : white;
 
 ## 🎓 New Grad Jobs (All Roles)
 
-> 💼 **14** positions available
+> 💼 **8** positions available
 
 <table width="100%">
 <thead>
@@ -109,80 +109,38 @@ color : white;
 </thead>
 <tbody>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/cascadefinancialservices">Cascade Financial Services</a></td>
-<td>Production Associate (Hybrid, in office up to 3x/week) - New Grads strongly encouraged to apply!</td>
-<td>📍 Knoxville, TN</td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/northwestern-medicine">Northwestern Medicine</a></td>
+<td>New Grad Registered Nurse Residency-GI Surgical Oncology Full-time Nights</td>
+<td>📍 Chicago, IL</td>
 <td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/production-associate-hybrid-in-office-up-to-3xweek-new-grads-strongly-encouraged-to-apply-in-knoxville-tn-at-cascade-financial-services-4442755602/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/cascadefinancialservices">Cascade Financial Services</a></td>
-<td>Production Associate (Hybrid, in office up to 3x/week) - New Grads strongly encouraged to apply!</td>
-<td>📍 Knoxville, TN</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/production-associate-hybrid-in-office-up-to-3xweek-new-grads-strongly-encouraged-to-apply-in-knoxville-tn-at-cascade-financial-services-4442755602/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-registered-nurse-residency-gi-surgical-oncology-full-time-nights-in-chicago-il-at-northwestern-medicine-4441003640/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/cascadefinancialservices">Cascade Financial Services</a></td>
 <td>Production Associate (Hybrid, in office up to 3x/week) - New Grads strongly encouraged to apply!</td>
 <td>📍 Chandler, AZ</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/production-associate-hybrid-in-office-up-to-3xweek-new-grads-strongly-encouraged-to-apply-in-chandler-az-at-cascade-financial-services-4442745990/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/cascadefinancialservices">Cascade Financial Services</a></td>
 <td>Production Associate (Hybrid, in office up to 3x/week) - New Grads strongly encouraged to apply!</td>
 <td>📍 Chandler, AZ</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/production-associate-hybrid-in-office-up-to-3xweek-new-grads-strongly-encouraged-to-apply-in-chandler-az-at-cascade-financial-services-4442745990/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/cascadefinancialservices">Cascade Financial Services</a></td>
 <td>Production Associate (Hybrid, in office up to 3x/week) - New Grads strongly encouraged to apply!</td>
 <td>📍 Chandler, AZ</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/production-associate-hybrid-in-office-up-to-3xweek-new-grads-strongly-encouraged-to-apply-in-chandler-az-at-cascade-financial-services-4442745990/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/crestwood-terrace">Crestwood Terrace</a></td>
-<td>Certified Nursing Assistant (CNA)  Part-time  PM Shift   -  New Rates! New Grads Welcome!</td>
-<td>📍 Midlothian, TX</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/certified-nursing-assistant-cna-part-time-pm-shift-new-rates-new-grads-welcome-in-midlothian-tx-at-crestwood-terrace-4442755244/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/crestwood-terrace">Crestwood Terrace</a></td>
-<td>Certified Nursing Assistant (CNA)  Part-time  PM Shift   -  New Rates! New Grads Welcome!</td>
-<td>📍 Midlothian, TX</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/certified-nursing-assistant-cna-part-time-pm-shift-new-rates-new-grads-welcome-in-midlothian-tx-at-crestwood-terrace-4442755244/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lknfamilylaw">LKN Family Law</a></td>
-<td>Family Law Attorney (New Grads Welcome!)</td>
-<td>📍 Cornelius, OR</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/family-law-attorney-new-grads-welcome-in-cornelius-or-at-lkn-family-law-4442544834/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lknfamilylaw">LKN Family Law</a></td>
-<td>Family Law Attorney (New Grads Welcome!)</td>
-<td>📍 Cornelius, OR</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/family-law-attorney-new-grads-welcome-in-cornelius-or-at-lkn-family-law-4442544834/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lknfamilylaw">LKN Family Law</a></td>
-<td>Family Law Attorney (New Grads Welcome!)</td>
-<td>📍 Cornelius, OR</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/family-law-attorney-new-grads-welcome-in-cornelius-or-at-lkn-family-law-4442544834/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/databricks">Databricks</a></td>
 <td>Associate Product Manager, New Grad (2027 Start)</td>
 <td>📍 San Francisco, CA</td>
-<td>6d ago</td>
+<td>1w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/associate-product-manager-new-grad-2027-start-in-san-francisco-ca-at-databricks-4438752185/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
