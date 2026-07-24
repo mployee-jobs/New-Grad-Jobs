@@ -6,7 +6,7 @@
 ![Level: New Graduate](https://img.shields.io/badge/Level:_New_Graduate-orange?style=for-the-badge&logo=education)
 
 ### 📅 Last Updated
-**Thursday, July 23, 2026 at 07:22 AM EDT**
+**Friday, July 24, 2026 at 07:15 AM EDT**
 
 If you're graduating in 2025 or 2026, this repository is built for you.
 
@@ -95,7 +95,7 @@ color : white;
 
 ## 🎓 New Grad Jobs (All Roles)
 
-> 💼 **8** positions available
+> 💼 **9** positions available
 
 <table width="100%">
 <thead>
@@ -109,32 +109,39 @@ color : white;
 </thead>
 <tbody>
 <tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/employbridge">Employbridge</a></td>
+<td>Registered Nurse (New Grad)</td>
+<td>📍 Knoxville, TN</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/registered-nurse-new-grad-in-knoxville-tn-at-employbridge-4444494430/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/employbridge">Employbridge</a></td>
+<td>Registered Nurse (New Grad)</td>
+<td>📍 Knoxville, TN</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/registered-nurse-new-grad-in-knoxville-tn-at-employbridge-4444494430/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/employbridge">Employbridge</a></td>
+<td>Registered Nurse (New Grad)</td>
+<td>📍 Knoxville, TN</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/registered-nurse-new-grad-in-knoxville-tn-at-employbridge-4444494430/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/morgansideveterinaryclinic">Morganside Veterinary Clinic</a></td>
+<td>Veterinarian Opportunity in One of Wisconsin’s Most Livable Towns - New Grads Welcome</td>
+<td>📍 Osseo, MN</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/veterinarian-opportunity-in-one-of-wisconsins-most-livable-towns-new-grads-welcome-in-osseo-mn-at-morganside-veterinary-clinic-4443995775/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/northwestern-medicine">Northwestern Medicine</a></td>
 <td>New Grad Registered Nurse Residency-GI Surgical Oncology Full-time Nights</td>
 <td>📍 Chicago, IL</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-registered-nurse-residency-gi-surgical-oncology-full-time-nights-in-chicago-il-at-northwestern-medicine-4441003640/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/cascadefinancialservices">Cascade Financial Services</a></td>
-<td>Production Associate (Hybrid, in office up to 3x/week) - New Grads strongly encouraged to apply!</td>
-<td>📍 Chandler, AZ</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/production-associate-hybrid-in-office-up-to-3xweek-new-grads-strongly-encouraged-to-apply-in-chandler-az-at-cascade-financial-services-4442745990/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/cascadefinancialservices">Cascade Financial Services</a></td>
-<td>Production Associate (Hybrid, in office up to 3x/week) - New Grads strongly encouraged to apply!</td>
-<td>📍 Chandler, AZ</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/production-associate-hybrid-in-office-up-to-3xweek-new-grads-strongly-encouraged-to-apply-in-chandler-az-at-cascade-financial-services-4442745990/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/cascadefinancialservices">Cascade Financial Services</a></td>
-<td>Production Associate (Hybrid, in office up to 3x/week) - New Grads strongly encouraged to apply!</td>
-<td>📍 Chandler, AZ</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/production-associate-hybrid-in-office-up-to-3xweek-new-grads-strongly-encouraged-to-apply-in-chandler-az-at-cascade-financial-services-4442745990/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/databricks">Databricks</a></td>
