@@ -6,7 +6,7 @@
 ![Level: New Graduate](https://img.shields.io/badge/Level:_New_Graduate-orange?style=for-the-badge&logo=education)
 
 ### 📅 Last Updated
-**Tuesday, August 25, 2026 at 05:59 AM EDT**
+**Wednesday, August 26, 2026 at 06:04 AM EDT**
 
 If you're graduating in 2025 or 2026, this repository is built for you.
 
@@ -95,7 +95,7 @@ color : white;
 
 ## 🎓 New Grad Jobs (All Roles)
 
-> 💼 **22** positions available
+> 💼 **25** positions available
 
 <table width="100%">
 <thead>
@@ -109,38 +109,66 @@ color : white;
 </thead>
 <tbody>
 <tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/thearcoway">ARCO a Family of Construction Companies</a></td>
+<td>Assistant Superintendent (New Grad 2027)</td>
+<td>📍 Nashville, TN</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/assistant-superintendent-new-grad-2027-in-nashville-tn-at-arco-a-family-of-construction-companies-4459016010/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/jobright-ai">Jobright.ai</a></td>
+<td>Data Analyst, New Grad</td>
+<td>📍 San Francisco, CA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/data-analyst-new-grad-in-san-francisco-ca-at-jobrightai-4457612036/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/stealth-startup-community">Stealth Startup</a></td>
+<td>Software Engineer – New Grad</td>
+<td>📍 San Francisco, CA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/software-engineer-new-grad-in-san-francisco-ca-at-stealth-startup-4456941649/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/stealth-startup-community">Stealth Startup</a></td>
+<td>Software Engineer – New Grad</td>
+<td>📍 San Francisco, CA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/software-engineer-new-grad-in-san-francisco-ca-at-stealth-startup-4456928741/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/true-anomaly">True Anomaly</a></td>
+<td>Flight Software Engineer I (New Grad)</td>
+<td>📍 US</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/flight-software-engineer-i-new-grad-in-us-at-true-anomaly-5221572007/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/morgan-&-morgan-llc">Morgan & Morgan, P.A.</a></td>
+<td>Seeking Paralegal New Grads!</td>
+<td>📍 US</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/seeking-paralegal-new-grads-in-us-at-morgan-morgan-pa-6161697004/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/stealth-startupsssss">Stealth Startup</a></td>
 <td>Software Engineer – New Grad [33457]</td>
 <td>📍 San Francisco, CA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/software-engineer-new-grad-33457-in-san-francisco-ca-at-stealth-startup-4455862955/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/jobright-ai">Jobright.ai</a></td>
 <td>Data Analyst, New Grad</td>
 <td>📍 San Francisco, CA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/data-analyst-new-grad-in-san-francisco-ca-at-jobrightai-4457103422/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/jobright-ai">Jobright.ai</a></td>
-<td>Data Analyst, New Grad</td>
-<td>📍 San Francisco, CA</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/data-analyst-new-grad-in-san-francisco-ca-at-jobrightai-4456815467/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/whatnot-inc">Whatnot</a></td>
-<td>Customer Experience Agent, 2026 New Grad</td>
-<td>📍 Phoenix, AZ</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/customer-experience-agent-2026-new-grad-in-phoenix-az-at-whatnot-4370757460/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/robinhood">Robinhood</a></td>
 <td>Business Analyst (New Grad)</td>
 <td>📍 Washington, DC</td>
-<td>3d ago</td>
+<td>4d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/business-analyst-new-grad-in-washington-dc-at-robinhood-4454692607/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
@@ -163,13 +191,6 @@ color : white;
 <td>📍 San Francisco, CA</td>
 <td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/machine-learning-engineer-new-grad-2026-in-san-francisco-ca-at-nextdoor-4451522517/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/nextdoor-com">Nextdoor</a></td>
-<td>Machine Learning Engineer - New Grad 2026</td>
-<td>📍 San Francisco, CA</td>
-<td>2w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/machine-learning-engineer-new-grad-2026-in-san-francisco-ca-at-nextdoor-4450384779/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/tokyo-electron">Tokyo Electron US</a></td>
@@ -238,7 +259,7 @@ color : white;
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/select-specialty-hospital">Select Specialty Hospital</a></td>
 <td>Respiratory Therapist- New Graduate</td>
 <td>📍 Columbus, OH</td>
-<td>3w ago</td>
+<td>4w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/respiratory-therapist-new-graduate-in-columbus-oh-at-select-specialty-hospital-4446587966/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
@@ -252,7 +273,7 @@ color : white;
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/j-s-held">J.S. Held LLC</a></td>
 <td>Consultant - Construction Advisory (Open to New Grads)</td>
 <td>📍 Miami, FL</td>
-<td>2mo ago</td>
+<td>3mo ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/consultant-construction-advisory-open-to-new-grads-in-miami-fl-at-js-held-llc-4411266610/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
