@@ -6,7 +6,7 @@
 ![Level: New Graduate](https://img.shields.io/badge/Level:_New_Graduate-orange?style=for-the-badge&logo=education)
 
 ### 📅 Last Updated
-**Tuesday, September 8, 2026 at 09:45 AM EDT**
+**Wednesday, September 9, 2026 at 09:48 AM EDT**
 
 If you're graduating in 2025 or 2026, this repository is built for you.
 
@@ -95,7 +95,7 @@ color : white;
 
 ## 🎓 New Grad Jobs (All Roles)
 
-> 💼 **22** positions available
+> 💼 **25** positions available
 
 <table width="100%">
 <thead>
@@ -109,59 +109,87 @@ color : white;
 </thead>
 <tbody>
 <tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/timmons-group">Timmons Group</a></td>
+<td>New Graduate Civil Project Engineer I</td>
+<td>📍 Charleston, SC</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-civil-project-engineer-i-in-charleston-sc-at-timmons-group-4464498805/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/timmons-group">Timmons Group</a></td>
+<td>New Graduate Civil Project Engineer I</td>
+<td>📍 Charlotte, NC</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-civil-project-engineer-i-in-charlotte-nc-at-timmons-group-4464650372/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/mercy">Mercy</a></td>
+<td>Registered Nurse -Cardiopulmonary/Renal | Full-Time, Day Shift  7a-7p (New Graduate Nurses Welcome to Apply)</td>
+<td>📍 Oklahoma City, OK</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/registered-nurse-cardiopulmonaryrenal-full-time-day-shift-7a-7p-new-graduate-nurses-welcome-to-apply-in-oklahoma-city-ok-at-mercy-4454457259/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/jobright-ai">Jobright.ai</a></td>
+<td>Data Analyst, New Grad</td>
+<td>📍 San Francisco, CA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/data-analyst-new-grad-in-san-francisco-ca-at-jobrightai-4463515478/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/bgeinc">BGE, Inc.</a></td>
 <td>ATLANTA - Land/Site Development, New Grad</td>
 <td>📍 US</td>
-<td>Today</td>
+<td>1d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/atlanta-landsite-development-new-grad-in-us-at-bge-inc-4464477885/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/protouch-staffing">Protouch Staffing</a></td>
 <td>Primary Care Physician - Houston, TX (New Grads Accepted)</td>
 <td>📍 Houston, TX</td>
-<td>Today</td>
+<td>1d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/primary-care-physician-houston-tx-new-grads-accepted-in-houston-tx-at-protouch-staffing-4459041820/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/bank-of-montreal/">BMO</a></td>
+<td>Wealth Management Development Associate, New Grad (Chicago, IL)</td>
+<td>📍 Chicago, IL</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/wealth-management-development-associate-new-grad-chicago-il-in-chicago-il-at-bmo-R260026201/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/hntb/">HNTB</a></td>
+<td>Returning New Grad Marketing Specialist I- Great Lakes Division (For Current/Former HNTB Interns Only)</td>
+<td>📍 Milwaukee, WI</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/returning-new-grad-marketing-specialist-i-great-lakes-division-for-currentformer-hntb-interns-only-in-milwaukee-wi-at-hntb-R-31486/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/nxp-semiconductors/">NXP Semiconductors</a></td>
 <td><New Graduate Hiring> Equipment Engineer - Final Test</td>
 <td>📍 Kaohsiung</td>
-<td>Today</td>
+<td>1d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-hiring-equipment-engineer-final-test-in--at-nxp-semiconductors-R-10066464/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/jobright-ai">Jobright.ai</a></td>
 <td>Data Analyst, New Grad</td>
 <td>📍 San Francisco, CA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/data-analyst-new-grad-in-san-francisco-ca-at-jobrightai-4462952595/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/jobright-ai">Jobright.ai</a></td>
 <td>Data Analyst, New Grad</td>
 <td>📍 San Francisco, CA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/data-analyst-new-grad-in-san-francisco-ca-at-jobrightai-4462993321/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/jobright-ai">Jobright.ai</a></td>
-<td>Data Analyst, New Grad</td>
-<td>📍 San Francisco, CA</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/data-analyst-new-grad-in-san-francisco-ca-at-jobrightai-4462657118/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/notionhq">Notion</a></td>
-<td>Software Engineer, New Grad (Dec 2026)</td>
-<td>📍 San Francisco, CA</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/software-engineer-new-grad-dec-2026-in-san-francisco-ca-at-notion-4454805111/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/ciena">Ciena</a></td>
 <td>Platform Software Developer - 2026 New Grads</td>
 <td>📍 Atlanta, GA</td>
-<td>5d ago</td>
+<td>6d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/platform-software-developer-2026-new-grads-in-atlanta-ga-at-ciena-4461925202/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
@@ -189,7 +217,7 @@ color : white;
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/j-s-held">J.S. Held LLC</a></td>
 <td>Consultant, Economic Damages & Valuations - Summer 2027 (New Grad)</td>
 <td>📍 San Francisco, CA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/consultant-economic-damages-valuations-summer-2027-new-grad-in-san-francisco-ca-at-js-held-llc-4459334179/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
@@ -205,13 +233,6 @@ color : white;
 <td>📍 Boston, MA</td>
 <td>3w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-automation-engineer-in-boston-ma-at-xtalpi-inc-4417770935/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/symbotic">Symbotic</a></td>
-<td>New Grad- Software Engineer</td>
-<td>📍 Wilmington, CA</td>
-<td>3w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-software-engineer-in-wilmington-ca-at-symbotic-4446140930/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/shermco-industries">Shermco Industries</a></td>
